@@ -1,5 +1,7 @@
 # Just Another Text Editor (J.A.T.E)
 
+Tried my best on this one but was tough for sure! Check out the code - is almost there
+
 ## Description
 
 Just Another Text Editor (J.A.T.E) is a Progressive Web Application (PWA) designed for offline and online use. This single-page application utilizes advanced caching and data storage techniques to ensure a seamless user experience. J.A.T.E allows developers to edit and save code snippets or notes efficiently, even without an active internet connection.
